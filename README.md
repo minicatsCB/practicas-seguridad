@@ -1,4 +1,4 @@
-## A recopilation of some of the assigments for the subject "Seguridad en redes y sistemas informáticos" de U-tad del año 2017-2018.
+## A recopilation of some of the assigments for the subject "Seguridad en redes y sistemas informáticos" ("Information Systems Security") of U-tad of year 2017-2018.
 
 *Note: all documents are written in Spanish.*
 
